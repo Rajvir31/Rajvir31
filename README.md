@@ -1,6 +1,6 @@
-##Hi im Rajvir
+## Hi im Rajvir
 
-Computer Science Student at Western University (UWO)
+Computer Science Student at Western University (UWO) <\br>
 I like vibe coding
 
 ## 🌐 Socials:
