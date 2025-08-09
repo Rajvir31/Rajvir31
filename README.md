@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvir31) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajvirparmar32@gmail.com) 
-[![Website](https://img.shields.io/badge/Website-1E90FF?logo=internetexplorer&logoColor=white)](https://rajvirparmar.ca/)
+[![Website](https://img.shields.io/badge/Website-1E90FF?logo=aboutdotme&logoColor=white)](https://rajvirparmar.ca/)
 
 
 
