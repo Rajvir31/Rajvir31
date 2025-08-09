@@ -1,9 +1,9 @@
 ## Hi, I'm Rajvir.
 
 🎓 Computer Science Student at Western University (UWO). <br/>
-❗ Prev SWE @ Riipen. <br/>
-❗ Prev Data Science @ Loblaw.<br/>
-❗ Prev Data @ Scotiabank.<br/>
+1️⃣  Prev SWE @ Riipen. <br/>
+2️⃣  Prev Data Science @ Loblaw.<br/>
+3️⃣ Prev Data @ Scotiabank.<br/>
 😅 I like vibe coding.
 
 ## 🌐 Socials:
