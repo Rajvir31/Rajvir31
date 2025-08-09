@@ -1,7 +1,10 @@
-## Hi im Rajvir
+## Hi, I'm Rajvir.
 
-Computer Science Student at Western University (UWO) <\br>
-I like vibe coding
+🎓 Computer Science Student at Western University. (UWO) <\br>
+❗ Prev SWE @ Riipen. <\br>
+❗ Prev Data Science @ Loblaw.<\br>
+❗ Prev Data @ Scotiabank.<\br>
+😅 I like vibe coding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvir31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajvirparmar32@gmail.com) 
