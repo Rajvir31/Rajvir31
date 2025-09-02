@@ -1,9 +1,10 @@
 ## Hi, I'm Rajvir.
 
 🎓 Computer Science Student at Western University (UWO). <br/>
-1️⃣  Prev SWE @ Riipen. <br/>
-2️⃣  Prev Data Science @ Loblaw.<br/>
-3️⃣ Prev Data @ Scotiabank.<br/>
+1️⃣ SWE @ Solink. <br/>
+2️⃣ Prev SWE @ Riipen. <br/>
+3️⃣ Prev Data Science @ Loblaw.<br/>
+4️⃣ Prev Data @ Scotiabank.<br/>
 😅 What is vibe coding?
 
 ## 🌐 Socials:
