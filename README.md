@@ -1,6 +1,6 @@
 ## Hi, I'm Rajvir.
 
-🎓 Computer Science Student at Western University (UWO). <br/>
+🎓 Computer Science Student at Western University (UWO). <br/><br/>
 1️⃣ SWE @ Solink. <br/>
 2️⃣ Prev SWE @ Riipen. <br/>
 3️⃣ Prev Data Science @ Loblaw.<br/>
