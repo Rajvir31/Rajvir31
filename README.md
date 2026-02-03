@@ -5,7 +5,6 @@
 2️⃣ Prev SWE @ Riipen. <br/>
 3️⃣ Prev Data Science @ Loblaw.<br/>
 4️⃣ Prev Data @ Scotiabank.<br/>
-😅 What is vibe coding?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvir31) 
