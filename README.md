@@ -5,6 +5,7 @@
 2️⃣ Prev SWE @ Riipen. <br/>
 3️⃣ Prev SWE @ Loblaw.<br/>
 4️⃣ Prev SWE @ Scotiabank.<br/>
+5️⃣ Prev IT @ Humber.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvir31) 
