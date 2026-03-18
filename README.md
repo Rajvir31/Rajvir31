@@ -1,6 +1,6 @@
 ## Hi, I'm Rajvir.
 
-🎓 Computer Science Student at University of Western Ontario (Western University). London, ON<br/><br/>
+🎓 Computer Science Student at Western University -  London, ON<br/><br/>
 1️⃣ SWE @ Solink. <br/>
 2️⃣ Prev SWE @ Riipen. <br/>
 3️⃣ Prev SWE @ Loblaw.<br/>
