@@ -1,5 +1,5 @@
 ## Hi, I'm Rajvir.
-💼 AI Software Developer at SOTI <br/>
+💻 AI Software Developer at SOTI <br/>
 🎓 Computer Science Grad at Western University <br/><br/>
 1️⃣ Prev SWE @ Solink. <br/>
 2️⃣ Prev SWE @ Riipen. <br/>
