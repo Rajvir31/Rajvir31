@@ -4,7 +4,7 @@
 1️⃣ Prev SWE @ Solink. <br/>
 2️⃣ Prev SWE @ Riipen. <br/>
 3️⃣ Prev SWE @ Loblaw.<br/>
-4️⃣ Prev SWE @ Scotiabank.<br/>
+4️⃣ Prev Data @ Scotiabank.<br/>
 5️⃣ Prev IT @ Humber.<br/>
 
 ## 🌐 Socials:
