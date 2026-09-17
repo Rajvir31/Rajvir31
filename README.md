@@ -1,6 +1,6 @@
 ## Hi, I'm Rajvir.
-
-🎓 Computer Science Alumni at Western University | London, ON<br/><br/>
+💼 AI Software Developer at SOTI <br/>
+🎓 Computer Science Grad at Western University <br/><br/>
 1️⃣ Prev SWE @ Solink. <br/>
 2️⃣ Prev SWE @ Riipen. <br/>
 3️⃣ Prev SWE @ Loblaw.<br/>
